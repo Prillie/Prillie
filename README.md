@@ -21,13 +21,13 @@ My repositories include implementations using OpenAI and Anthropic, with develop
 
 ## Selected Work
 
-| Product | Architecture story |
+| Product | What it does |
 | --- | --- |
-| [Foundessa](https://github.com/Prillie/foundessa-case-study) | Persistent company intelligence and governed specialist workflows, with SaaS infrastructure and launch controls. |
-| [Jellylink](https://github.com/Prillie/jellylink-case-study) | Account-aware software stack intelligence, project dependencies, provider integrations, and grounded AI tools. |
-| [Personea](https://github.com/Prillie/personea-case-study) | Relationship intelligence, context-aware drafts, human review, and channel capability boundaries. |
-| [CuriousGo](https://github.com/Prillie/curiousgo-case-study) | Guided creation and learning, editable project workspaces, versioning, and family controls. |
-| [Peachity](https://github.com/Prillie/peachity-case-study) | Evidence-grounded opportunity assessment, structured recommendations, and an MCP interface. |
+| [Foundessa](https://github.com/Prillie/foundessa-case-study) | AI-native company-building platform for founders, with persistent company intelligence, specialized AI agents, and governed workflows. |
+| [Jellylink](https://github.com/Prillie/jellylink-case-study) | AI & SaaS stack intelligence that maps tools, accounts, subscriptions, renewals, costs, and project dependencies. |
+| [Personea](https://github.com/Prillie/personea-case-study) | AI relationship and network-growth platform for deciding who to engage and preparing context-aware outreach under human control. |
+| [CuriousGo](https://github.com/Prillie/curiousgo-case-study) | AI-guided learning and project creation for kids, with editable workspaces, versioning, and family controls. |
+| [Peachity](https://github.com/Prillie/peachity-case-study) | AI-native systems and product studio; the case study focuses on its Opportunity Map assessment engine and MCP interface. |
 
 Each case study distinguishes implemented architecture from planned capabilities and configured live integrations.
 
