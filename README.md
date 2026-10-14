@@ -4,7 +4,7 @@
 
 I design and build AI-native products, from product architecture and data modeling through full-stack implementation, integrations, and deployment. My work connects AI capabilities to persistent context, clear decision-making, and production-ready systems.
 
-My production repositories are private because they contain proprietary commercial products. This public portfolio documents implemented architecture and engineering decisions, alongside a standalone working code showcase built from scratch with synthetic data.
+My commercial product repositories are private because they contain proprietary code and product IP. This public portfolio documents implemented architecture and engineering decisions, alongside a standalone working code showcase built from scratch with synthetic data.
 
 ## What I Build
 
@@ -31,12 +31,13 @@ My repositories include implementations using OpenAI and Anthropic, with develop
 
 Each case study distinguishes implemented architecture from planned capabilities and configured live integrations.
 
-## Other Products & Systems
+## Additional Products Built
 
-- **Luftly:** content intelligence, provider-based AI, approval workflows, and publishing adapters.
-- **BloomVox:** audition rehearsal workflows, document ingestion, and structured AI script analysis.
-- **BEBA Studio:** portrait-studio booking, client portal workflows, and payment/calendar service boundaries.
-- **SchemaSpark:** project planning and build-review workflows with Prisma-backed persistence, AI services, and analytics integrations.
-- **Good Girls Gather:** a community platform with durable waitlist and partner-intake workflows and focused validation tests.
+- **[Slate Acting](https://slate-acting.vercel.app):** online acting-studio software for kids and teens, with parent dashboards, class/session management, and studio operations.
+- **[BEBA Studio](https://www.bebastudio.com):** photography-studio platform for bookings, client portal workflows, and payment/calendar integrations.
+- **Luftly:** AI content planning and publishing system with brand context, approval workflows, and channel adapters.
+- **[BloomVox](https://bloomvox.vercel.app):** AI-assisted audition and rehearsal studio with script import, structured script analysis, and rehearsal workflows.
+- **SchemaSpark:** AI project planning and build-review system with Prisma-backed persistence and analytics integrations.
+- **[Good Girls Gather](https://www.goodgirlsgather.com/):** community website with membership information, durable waitlist capture, and partner-application workflows.
 
-These systems broaden the portfolio across creator tools, business operations, learning, community, and software planning. They remain private; only the selected sanitized case studies and original demonstration code are public here.
+These products broaden the portfolio across creator tools, business operations, learning, community, and software planning. Their commercial source code remains private; the selected sanitized case studies and original demonstration code are public here.
