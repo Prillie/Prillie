@@ -2,7 +2,7 @@
 
 **AI Product Engineer · Applied AI, Product & Technology Leader · Founder, Peachity**
 
-I design and build AI-native products, from product architecture and data modeling through full-stack implementation, integrations, and deployment. My work connects AI capabilities to persistent context, clear user decisions, and software people can use.
+I design and build AI-native products, from product architecture and data modeling through full-stack implementation, integrations, and deployment. My work connects AI capabilities to persistent context, clear decision-making, and production-ready systems.
 
 My production repositories are private because they contain proprietary commercial products. This public portfolio documents implemented architecture and engineering decisions, alongside a standalone working code showcase built from scratch with synthetic data.
 
