@@ -33,10 +33,9 @@ Each case study distinguishes implemented architecture from planned capabilities
 
 ## Additional Products Built
 
+- **[Luftly](https://www.luftly.com/):** AI content planning and publishing system with brand context, approval workflows, and channel adapters.
 - **[Slate Acting](https://slate-acting.vercel.app):** online acting-studio software for kids and teens, with parent dashboards, class/session management, and studio operations.
 - **[BEBA Studio](https://www.bebastudio.com):** photography-studio platform for bookings, client portal workflows, and payment/calendar integrations.
-- **Luftly:** AI content planning and publishing system with brand context, approval workflows, and channel adapters.
-- **[BloomVox](https://bloomvox.vercel.app):** AI-assisted audition and rehearsal studio with script import, structured script analysis, and rehearsal workflows.
 - **SchemaSpark:** AI project planning and build-review system with Prisma-backed persistence and analytics integrations.
 - **[Good Girls Gather](https://www.goodgirlsgather.com/):** community website with membership information, durable waitlist capture, and partner-application workflows.
 
