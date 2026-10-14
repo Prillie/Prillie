@@ -34,9 +34,9 @@ Each case study distinguishes implemented architecture from planned capabilities
 ## Additional Products Built
 
 - **[Luftly](https://www.luftly.com/):** AI content intelligence platform for brand-aware planning, creation, and publishing, with approval workflows and performance insights.
-- **[Slate Acting](https://slate-acting.vercel.app):** Online acting-studio platform for kids and teens, connecting classes, parent dashboards, learning materials, and studio operations.
-- **[BEBA Studio](https://www.bebastudio.com):** Photography business platform connecting bookings, client portals, memberships, and studio operations.
+- **[Slate Acting](https://slate-acting.vercel.app):** Full-stack acting education platform with classes, assignments, self-tape uploads, coach feedback, progress tracking, Zoom sessions, and parent/admin workflows.
+- **[BEBA Studio](https://www.bebastudio.com):** Full-stack photography client platform with booking, client galleries, ordering workflows, client dashboards, and administrative operations.
 - **SchemaSpark:** AI-assisted product planning and execution platform that turns ideas into structured build plans and reviews progress against implementation.
-- **[Good Girls Gather](https://www.goodgirlsgather.com/):** Community and membership website for women building businesses and careers, with waitlist and partner-application workflows.
+- **[Good Girls Gather](https://www.goodgirlsgather.com/):** Membership and professional discovery platform with member business profiles, searchable expertise, bookable 1:1 sessions, events, and community experiences.
 
 These products broaden the portfolio across creator tools, business operations, learning, community, and software planning. Their commercial source code remains private; the selected sanitized case studies and original demonstration code are public here.
